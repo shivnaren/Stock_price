@@ -5,7 +5,8 @@ import re
 import os.path
 import Stocks_Price
 import Stock_trading_Check
-i=0
+
+"""i=0
 raw_comp_links_list = []
 #this is url to find out all prices
 def comp_links(alpha_url_para):
@@ -28,17 +29,9 @@ while i< len(alphasymobls):
 All_comp_links_list = [x for x in raw_comp_links_list if x != ""]
 
 
-#Check whether company is trading or not
-Trading_comps_links_list = []
-Not_Trading_comps_links_list = []
-for link_row in range(len(All_comp_links_list)):
-    if Stock_trading_Check.Stock_Trading_Check(All_comp_links_list[link_row]) != " ":
-        Trading_comps_links_list.append(All_comp_links_list[link_row])
-    else:
-        Not_Trading_comps_links_list.append(All_comp_links_list[link_row])
-
-print All_comp_links_list, len(All_comp_links_list) , Not_Trading_comps_links_list, len(Not_Trading_comps_links_list)
-
+thefile = open('links.txt', 'w')
+for link in All_comp_links_list:
+    thefile.write("%s\n"%link)"""
 
 
 
