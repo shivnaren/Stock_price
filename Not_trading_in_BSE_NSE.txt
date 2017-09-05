@@ -3938,7 +3938,6 @@ http://www.moneycontrol.com/india/stockpricequote/textilesspinningcottonblended/
 http://www.moneycontrol.com/india/stockpricequote/steelmediumsmall/westernministil/WM
 http://www.moneycontrol.com/india/stockpricequote/sugar/westernorissasugar/WOS
 http://www.moneycontrol.com/india/stockpricequote/engineering/westernpaquesi/WPI01
-http://www.moneycontrol.com/india/stockpricequote/engineering/westernpaquesi/WPI01
 http://www.moneycontrol.com/india/stockpricequote/consumergoodselectronic/westonelectroniks/WE
 http://www.moneycontrol.com/india/stockpricequote/domesticappliances/whirlpoolwashingmachine/WWM
 http://www.moneycontrol.com/india/stockpricequote/financeinvestments/whitehallcommercialcompany/WHC01
